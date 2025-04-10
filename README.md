@@ -57,7 +57,11 @@ python tag_notion_files_autoencoder.py
 
 MIT License - see LICENSE file for details
 
-## Areas Needing Help
+## Contributing
+
+We welcome contributions! Here's how you can help:
+
+### Areas Needing Help
 
 - Autoencoder implementation for more efficient content analysis
 - Additional tag categories and rules
@@ -65,20 +69,23 @@ MIT License - see LICENSE file for details
 - Test coverage
 - Documentation improvements
 
-## Pull Request Process
+### Pull Request Process
 
-1. Create a feature branch
-2. Add tests for new functionality
-3. Update documentation
-4. Submit PR with clear description
+1. Create a feature branch (`git checkout -b feature/your-feature-name`)
+2. Make your changes and add tests for new functionality
+3. Ensure all tests pass
+4. Update documentation if necessary
+5. Commit your changes (`git commit -m 'Add some feature'`)
+6. Push to the branch (`git push origin feature/your-feature-name`)
+7. Submit a pull request with a clear description of your changes
 
-## Code Style
+### Code Style
 
 - Use type hints
 - Include docstrings
-- Follow PEP 8
-- Add unit tests
+- Follow PEP 8 guidelines
+- Add unit tests for new code
 
 ## Questions?
 
-Open an issue for any questions about contributing.
+Open an issue for any questions about contributing or using the tool.
